@@ -1,5 +1,15 @@
 # LynkOA <br>
 
+## About <br>
+add words
+
+***
+
+## Tools <br>
+- [todo]()
+
+***
+
 ## 2024 <br>
 ### Build Season <br>
 - [Week One]()
@@ -17,7 +27,23 @@
 - [World Championship]() - Hopefully
 
 ### Off-Season <br>
-- [todo]()
+- [tbd]()
 
 ***
-  
+
+### 2025 <br>
+### Build Season <br>
+- [Week One]()
+- [Week Two]()
+- [Week Three]()
+- [Week Four]()
+- [Week Five]()
+- [Week Six]()
+
+### Comp Season <br>
+- [tbd]()
+
+### Off-Season <br>
+- [tbd]()
+
+***
