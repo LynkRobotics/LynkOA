@@ -12,7 +12,7 @@ This is the repository housing our OA posts, while we write and edit them. Our O
 
 ## 2024 <br>
 ### Build Season <br>
-- [Week One]()
+- [Week One](https://github.com/LynkRobotics/LynkOA/blob/main/2024/Build/WeekOne.md)
 - [Week Two]()
 - [Week Three]()
 - [Week Four]()
