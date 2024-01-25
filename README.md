@@ -1,7 +1,7 @@
 # LynkOA <br>
 
 ## About <br>
-add words
+This is the repository housing our OA posts, while we write and edit them. Our OA posts are written in Markdown and a little bit of HTML for formatting. Below are tools to help write posts (Markdown, HTML formatting guides), and every post organized.  
 
 ***
 
