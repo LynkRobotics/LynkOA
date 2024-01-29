@@ -25,6 +25,7 @@ Debated the merits of over-the-bumper vs under-the-bumper
 </div>
 
 Received sheet metal parts for the robot cart from WestRock
+
 ![image](https://i.postimg.cc/SsGvgvG3/unnamed.png)
 
 <div>
