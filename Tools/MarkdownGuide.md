@@ -1,10 +1,4 @@
-# Markdown Cheat Sheet
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
-
-## Basic Syntax
-
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+# Markdown Guide
 
 ### Custom Headers
 
@@ -27,6 +21,21 @@ These are the elements outlined in John Gruber’s original design document. All
 <div>
 <div align="center">
 <h4><span style="color:#bf5700">H4</span></h4>
+</div>
+
+<div>
+<div align="center">
+<h5><span style="color:#bf5700">H5</span></h5>
+</div>
+
+<div>
+<div align="center">
+<h6><span style="color:#bf5700">H6</span></h6>
+</div>
+
+<div>
+<div align="center">
+<h7><span style="color:#bf5700">H7</span></h7>
 </div>
 
 ### Bold
