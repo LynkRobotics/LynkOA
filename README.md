@@ -9,6 +9,7 @@ This is the repository housing our OA posts, while we write and edit them. Our O
 - [Formatting Guide (Markdown and HTML)](https://github.com/LynkRobotics/LynkOA/blob/main/Tools/MarkdownGuide.md)
 - [Image Hosting](https://postimages.org/)
 - [Custom "Lynks"](https://shields.io/)
+- [Spectrum 3847: How to write a build blog](https://www.chiefdelphi.com/t/spectrum-3847-how-to-write-a-build-blog/444039?u=jimmyy)
 
 ***
 
