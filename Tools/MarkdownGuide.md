@@ -6,11 +6,28 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-### Heading
+### Custom Headers
 
-# H1
-## H2
-### H3
+<div>
+<div align="center">
+<h1><span style="color:#bf5700">H1</span></h1>
+</div>
+
+<div>
+<div align="center">
+<h2><span style="color:#bf5700">H2</span></h2>
+</div>
+
+
+<div>
+<div align="center">
+<h3><span style="color:#bf5700">H3</span></h3>
+</div>
+
+<div>
+<div align="center">
+<h4><span style="color:#bf5700">H4</span></h4>
+</div>
 
 ### Bold
 
@@ -43,6 +60,8 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Horizontal Rule
 
 ---
+or
+***
 
 ### Link
 
