@@ -14,7 +14,7 @@ This is the repository housing our OA posts, while we write and edit them. Our O
 
 ## 2024 <br>
 ### Main <br>
-- [Main Page]()
+- [Main Page](https://github.com/LynkRobotics/LynkOA/blob/main/2024/main.md) - Yes, it looks a little goofy in the GitHub preview, but CD's Markdown Engine formats it differently 
 
 ### Build Season <br>
 - [Week One](https://github.com/LynkRobotics/LynkOA/blob/main/2024/Build/WeekOne.md)
