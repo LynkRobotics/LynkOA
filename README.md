@@ -7,7 +7,7 @@ This is the repository housing our OA posts, while we write and edit them. Our O
 
 ## Tools <br>
 - [Formatting Guide (Markdown and HTML)](https://github.com/LynkRobotics/LynkOA/blob/main/Tools/MarkdownGuide.md)
-- [Image Hosting](https://postimages.org/)
+- [Image Hosting](https://postimages.org/) 
 
 ***
 
