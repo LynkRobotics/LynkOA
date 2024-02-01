@@ -7,11 +7,15 @@ This is the repository housing our OA posts, while we write and edit them. Our O
 
 ## Tools <br>
 - [Formatting Guide (Markdown and HTML)](https://github.com/LynkRobotics/LynkOA/blob/main/Tools/MarkdownGuide.md)
-- [Image Hosting](https://postimages.org/) 
+- [Image Hosting](https://postimages.org/)
+- [Custom "Lynks"](https://shields.io/)
 
 ***
 
 ## 2024 <br>
+### Main <br>
+- [Main Page]()
+
 ### Build Season <br>
 - [Week One](https://github.com/LynkRobotics/LynkOA/blob/main/2024/Build/WeekOne.md)
 - [Week Two]()
