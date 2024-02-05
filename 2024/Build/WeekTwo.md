@@ -14,7 +14,7 @@ In previous discussions, we had decided that we wanted to be able to pick up not
 
 ![image](https://i.postimg.cc/RCstwTB0/unnamed.png)
 
-And we got a 3D printed field to use when developing strategies.
+We also 3D-printed a field to use when developing strategies.
 
 ![image](https://i.postimg.cc/7hwy6zB8/unnamed.png)
 ![image](https://i.postimg.cc/65HNWyng/unnamed.png)
