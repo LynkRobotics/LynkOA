@@ -37,7 +37,7 @@ We got our MK4i swerve modules today, which allows us to assemble the chassis. A
 
 We had an online meeting to discuss the 2D design of the current robot concept. The goal was to lay out how the overall system will work with real dimensions, and show us how it fits together.
 
-![image](https://i.postimg.cc/GtHxv7gk/unnamed.png)
+![image](https://i.postimg.cc/BnrkxGNp/OTB-Horizontal-shooter.png)
 
 <div>
 <div align="center">
