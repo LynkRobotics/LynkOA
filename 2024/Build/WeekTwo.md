@@ -94,3 +94,5 @@ Since we decided to revisit our decision on an OTB intake in the last meeting th
 We held an online meeting to work on how we would build a BTB intake, and how it would integrate into a full robot. Our goal was to make complete enough CAD to create a prototype of the intake and also see how everything fits together.
 
 ![image](https://i.postimg.cc/KY1PwCGw/unnamed.png)
+
+See y'all next update!
