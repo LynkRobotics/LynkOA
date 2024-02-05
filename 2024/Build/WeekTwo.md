@@ -3,18 +3,18 @@
 <h1><span style="color:#bf5700">Week 2!</span></h1>
 </div>
 
-Welcome back to Team 9496 Lynk’s 2024 OA thread, for our second post of the 2024 season! <br>
+Welcome back to Team 9496 Lynk’s 2024 OA thread, for our second post of the Crescendo season! <br>
 
 <div>
 <div align="center">
 <h2><span style="color:#bf5700">Monday, January 15th</span></h2>
 </div>
 
-Debated the merits of over-the-bumper vs under-the-bumper
+We had decided that we wanted to be able to pick up notes from the ground in previous discussions and now we had to decide how we would do that. The main debate was between over-the-bumper vs under-the-bumper and we had to list out the pro/con of each system. After that we decided to pursue over-the-bumper as it would allow for a better touch it own it approach due to it being wider than we expected UTB.
 
 ![image](https://i.postimg.cc/RCstwTB0/unnamed.png)
 
-3D printed off a field
+And we got a 3D printed field to use when developing strategies.
 
 ![image](https://i.postimg.cc/7hwy6zB8/unnamed.png)
 ![image](https://i.postimg.cc/65HNWyng/unnamed.png)
@@ -24,16 +24,18 @@ Debated the merits of over-the-bumper vs under-the-bumper
 <h2><span style="color:#bf5700">Tuesday, January 16th</span></h2>
 </div>
 
-Received sheet metal parts for the robot cart from WestRock
+Received sheet metal parts for the robot cart from WestRock so we could start building that.
 
 ![image](https://i.postimg.cc/SsGvgvG3/unnamed.png)
+
+We got our MK4i swerve modules today which allows us to assemble the chassis at this point we decided to go ahead with a 27x27 chassis.
 
 <div>
 <div align="center">
 <h2><span style="color:#bf5700">Wednesday, January 17th</span></h2>
 </div>
 
-We Had an online class to discuss 2D design.
+We had an online class to discuss the 2D design of the current robot concept, the goal with this is to lay out how the overall system will work with real dimensions and show us how it fits together. 
 
 ![image](https://i.postimg.cc/GtHxv7gk/unnamed.png)
 
@@ -44,13 +46,14 @@ We Had an online class to discuss 2D design.
 
 Worked on building the robot Cart
 
-### NEED PHOTOS
+![image](https://i.postimg.cc/1R869KMp/unnamed.png)
 
-Discussed Between the Bumper intake
+We had a discussion about the design we had been proto-CADing the previous day. This concept was an over-the-bumper intake with horizontal wheels on the shooter and at this time this is what we were looking at to complete all of our goals on the “Our Robot Will” list. Here is the concept we were discussing.
 
 ![image](https://i.postimg.cc/XNCLLJVF/unnamed.jpg)
-![image](https://i.postimg.cc/sxYprMXN/unnamed.jpg)
-![image](https://i.postimg.cc/DZsGrSqw/unnamed.jpg)
+![image](https://i.postimg.cc/SKG5x4St/unnamed.png)
+
+After this, we discussed a new to-us concept for an intake inspired by [95’s](https://www.chiefdelphi.com/t/frc-95-the-grasshoppers-2024-build-thread/442176/34?u=jimmyy) design we started calling this the Between the Bumper intake. After this conversation, we felt this was a different enough new design that required us to go back to the whiteboard and compare its pros and cons to OTB and traditional UTB.
 
 
 <div>
@@ -58,11 +61,36 @@ Discussed Between the Bumper intake
 <h2><span style="color:#bf5700">Friday, January 19th</span></h2>
 </div>
 
-Resumed cart construction.
+Since we decided to revisit our decision on an OTB intake in the last meeting this meeting's main goal was to discuss the pro/con of the BTB intake as compared to the list we had made for the other concepts. And this is the list that we came up with. From this, we decided to pivot our design and move towards a BTB intake. Once we saw the pro/con list it was a somewhat easy decision to make.
 
-![image](https://i.postimg.cc/RhdNdKq4/20240119-204319.jpg)
+<div>
+<div align="center">
+<h3><span style="color:#bf5700">Intake Style Comparisons</span></h3>
+</div>
 
-Swerve module assembly 
+| Over-the-Bumper | Under-the-Bumper | Behind-the-Bumper |
+| :-: | :-: | :-: |
+| **Pros:** | Pros: | Pros: |
+| Touch it, own it | Protected | Touch it, own it |
+| Faster cycles (reach) | Good for playing chicken | Protected |
+| Multi-function | Defense | Good for playing chicken |
+| Lots of examples | **CONS:** | Defense |
+| Can see when in | More operator skill needed | Reach (better than UTB) |
+| Easy to iterate | Jamming Prone | 0 DOF |
+| **Cons:** | High CG | Able to iterate |
+| Damage | | Normal CG |
+| +1 DOF | | Limited Jamming | 
+| Bad at playing chicken | | Some OTB knowledge applies |
+| | | **CONS:** |
+| | | Not multi-functional |
+| | | Few examples |
+| | | Reach worse than OTB |
 
-![image](https://i.postimg.cc/0Qqjqcw9/20240119-204834.jpg)
-bruh
+<div>
+<div align="center">
+<h2><span style="color:#bf5700">Saturday, January 20th</span></h2>
+</div>
+
+We held an online meeting to work on how we would build a BTB intake, and how it would integrate into a full robot. Our goal was to make complete enough CAD to create a prototype of the intake and also see how everything fits together.
+
+![image](https://i.postimg.cc/KY1PwCGw/unnamed.png)
