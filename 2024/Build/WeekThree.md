@@ -12,7 +12,7 @@ Welcome back to Team 9496 Lynk’s 2024 OA thread, for our third post of the Cre
 
 Built prototype intake
 
-(insert test video here)
+https://youtu.be/_MMJW5qBUdo?si=CqcYKrR9lu39_iYR
 
 ![image](https://i.postimg.cc/X7wVWg7v/unnamed.png)
 
@@ -27,12 +27,6 @@ We worked on battery connectors. We are using 2awg cable for our battery connect
 
 ![image](https://i.postimg.cc/MKFKdGT7/unnamed.png)
 
-<div>
-<div align="center">
-<h2><span style="color:#bf5700">Friday, January 26th</span></h2>
-</div>
-
-TODO
 
 <div>
 <div align="center">
@@ -43,6 +37,20 @@ We got our first shipment of WCP Kraken X60s in.
 
 ![image](https://i.postimg.cc/CK4nmfQv/unnamed.png)
 
+<div>
+<div align="center">
+<h1><span style="color:#bf5700">Week 4!</span></h1>
+</div>
+
+Living life 6 weeks at a time...
+
+<div>
+<div align="center">
+<h2><span style="color:#bf5700">Monday, January 29th</span></h2>
+</div>
+We finished the final sheet metal design for the intake over the weekend and prepared the files to be sent out to our sponsor for manufacturing along with the belly pan, and some mounting hardware.
+
+![unnamed](https://i.postimg.cc/x84J4TJf/unnamed.png)
 
 
 
