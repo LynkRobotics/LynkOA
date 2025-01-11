@@ -12,7 +12,7 @@ Welcome to 9496 LYNK 2025 Build Log!
 <h2><span style="color:#bf5700">Why not OA?</span></h2>
 </div>
 
-As you may notice that this thread is titled as a "Thread" and not "Build Thread" or "Open Alliance." OA is hard, we are a small team, and OA takes a lot of man power to write, manpower that we do not have. Instead we have settled for a what we call "Build Log" where we will write things when we have time, and as we have things to write about.
+As you may notice that this thread is titled as a "Build Log" and not "Build Thread" or "Open Alliance." OA is hard, we are a small team, and OA takes a lot of man power to write, manpower that we do not have. Instead we have settled for a what we call "Build Log" where we will write things when we have time, and as we have things to write about.
 
 <div>
 <div align="center">
