@@ -1,13 +1,12 @@
-<div>
 <div align="center">
 <h1><span style="color:#bf5700">2025 Code</span></h1>
 </div>
 
-This is our 2025 ReefScape software stack.
+This is our 2025 ReefScape software stack and robot code repository.
 
 <div>
-<div align="center">
-<h1><span style="color:#bf5700">Software Stack</span></h1>
+<div align="left">
+<h2><span style="color:#bf5700">Software Stack</span></h2>
 </div>
 
 
@@ -25,11 +24,9 @@ This is our 2025 ReefScape software stack.
 
 <div>
 <div align="center">
-<h1><span style="color:#bf5700">Written By</span></h1>
+<h2><span style="color:#bf5700">Written By</span></h2>
 </div>
 
-<div>
 <div align="center">
-<body><span>@Jimmyy - Controls</span></body>
+@Jimmyy - Programming / Electrical / Strat
 </div>
-
