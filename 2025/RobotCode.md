@@ -30,6 +30,6 @@ This is our 2025 ReefScape software stack.
 
 <div>
 <div align="center">
-<body><span>@Jimmyy - Programming / Strat</span></body>
+<body><span>@Jimmyy - Controls</span></body>
 </div>
 
