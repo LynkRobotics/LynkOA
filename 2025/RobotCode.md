@@ -2,7 +2,8 @@
 <div align="center">
 <h1><span style="color:#bf5700">2025 Code</span></h1>
 </div>
-This post will list our software stack and our GitHub repository for our 2025 Software.
+
+This is our 2025 ReefScape software stack.
 
 <div>
 <div align="center">
@@ -19,3 +20,16 @@ This post will list our software stack and our GitHub repository for our 2025 So
 [![Static Badge](https://img.shields.io/badge/choreo-LLK?style=for-the-badge&label=r&labelColor=Bf5700&color=000000)](https://choreo.autos/)
 [![Static Badge](https://img.shields.io/badge/Elastic-LLK?style=for-the-badge&label=E&labelColor=Bf5700&color=000000)](https://github.com/Gold872/elastic-dashboard)
 [![Static Badge](https://img.shields.io/badge/2025_Robot_Code-github?style=for-the-badge&logo=github&logoColor=000000&labelColor=bf5700&color=000000)](https://github.com/LynkRobotics/RobotCode2025) 
+
+<hr>
+
+<div>
+<div align="center">
+<h1><span style="color:#bf5700">Written By</span></h1>
+</div>
+
+<div>
+<div align="center">
+<body><span>@Jimmyy - Programming / Strat</span></body>
+</div>
+
