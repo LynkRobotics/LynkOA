@@ -21,8 +21,8 @@
 - Acquire coral from the ground
 - Acquire algae from the ground
 - Acquire coral from the coral station
-- Acquire pre-scored algae / coral
-    - Also acquire opponent’s pre-scored algae / coral
+- Acquire pre-staged algae / coral
+    - Also acquire opponent’s pre-staged algae / coral
 - Score algae into alliance processor
 - Score algae into opponent processor
 - Score algae into barge net
@@ -51,7 +51,7 @@
 - Draw a penalty by touching a robot in our reef zone
 - Climb on reef on to score coral higher?
 - Not move
-- Die in near protected zones
+- Die in or near protected zones
 - Pushing an alliance partner
     - To park in barge zone
     - To move off of starting zone
@@ -156,8 +156,8 @@
     - Receives coral from KitBot
     Pros:
     - Let’s the KitBot do most of the cycling; score on Coral more quickly
-    - Can score more on higher levels when paired with KitBot
-    - Cons:
+    - Can score L2-L4 when paired with KitBot
+    Cons:
     - Capability wasted when not paired with non-KitBot
 #### Defense Bot
     Description: 
@@ -172,7 +172,7 @@
 #### Coral Front & Back
     Description: 
     - Can intake Coral from opposite site of scoring on reef
-    - Can be fed Coral from Coral Station without needing to travel to Coral Station
+    - Can be fed Coral from Coral Station without needing to travel all the way to Coral Station
     Pros: 
     - Cuts down on cycle times by removing distance to travel
     - Doesn’t rule out also scoring algae
@@ -211,7 +211,7 @@
     - Always gets the Barge RP
     Cons:
     - Does little otherwise to contribute to offense
-#### Mediocre California Powerhouse
+#### Do Everything Bot
     Description: 
     - Does a little bit of everything but doesn't do it well 
     Pros:
