@@ -29,7 +29,7 @@ As you may notice that this thread is titled as a "Build Log" and not "Build Thr
 <h2><span style="color:#bf5700">Post Table of Contents</span></h2>
 </div>
 
-- TBA
+[![Static Badge](https://img.shields.io/badge/Software_Stack_Post-Lynk?style=for-the-badge&label=001&labelColor=bf5700&color=000000)](https://www.chiefdelphi.com/t/frc-9496-lynk-2025-build-log/481015/4?u=jimmyy) 
 
 <div>
 <div align="center">
