@@ -10,6 +10,7 @@ This post outlines our early season thoughts on what robots will do, potential r
 <h2><span style="color:#bf5700">What robots will do</span></h2>
 </div>
 
+Purpose: List things that we think that robots will do
 - Score coral
     - L1
     - L2/L3
