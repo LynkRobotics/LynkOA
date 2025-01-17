@@ -3,6 +3,7 @@
 <h1><span style="color:#bf5700">Early Season Strat</span></h1>
 </div>
 
+This post outlines our early season thoughts on what robots will do, potential robot archetypes, and what our robot will do
 
 <div>
 <div align="left">
@@ -226,4 +227,36 @@
 <div align="left">
 <h2><span style="color:#bf5700">What our robot will do</span></h2>
 </div>
-words bleh
+
+### Our Robot Will
+- Be only as complex as absolutely necessary
+- Have a low center of gravity / be stable
+- Be robust – especially from potential Cage damage
+- Have bumpers that can be quickly installed between matches
+- Play in every match
+- Be flexible enough to work with different alliance partners
+- Automate tasks to provide simple controls to driver(s)
+- Use LEDs effectively to communicate status to drive team
+- Be able to remove Algae from the Reef
+- Able to score Coral on all levels of the Reef
+- Scores reliably and quickly on L2-L4 of the Reef
+- Can score 15 Coral on L2-L4 of the Reef in a match
+- Score 3 Coral in Auto
+- Pick up Coral from the Coral Station in less than ½ second
+- Obtain Coral while being defended
+- Deep Cage climb
+
+### Stretch goals
+- Ground intake of Algae
+- Able to score at least two Algae in the Processor
+- Maintain possession of Algae when removing from the Reef
+- Possess both Coral and Algae simultaneously
+- Score reliably on L1 of the Reef
+- Can score 20 Coral on the Reef in a match (solo Coral RP)
+
+### Non-goals
+- Climb on the Shallow Cage
+- Score Algae into the Barge net
+- Intake Coral from the ground
+
+
