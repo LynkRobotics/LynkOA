@@ -84,142 +84,198 @@ This post outlines our early season thoughts on what robots will do, potential r
     - How does the robot interact with game pieces?
     - What attributes are needed (robust, speed, power, agility, etc)?
 
-### The Robots
-#### Magic Carpet
-    Description:
-    - Just a magic carpet, the brave little toaster, the andymark chassis
-    Pros:
-    - Moves
-    - Could play defense
-    Cons:
-    - Doesn’t score game pieces (maybe an algae)
-#### Coral Cycler
-    Description:
+## The Robots
+
+### Magic Carpet
+
+**Description:**
+- Just a magic carpet, the brave little toaster, the andymark chassis
+
+**Pros:**
+  - Moves
+  - Could play defense
+
+**Cons:**
+   - Doesn’t score game pieces (maybe an algae)
+   
+### Coral Cycler
+
+**Description:**
     - Stays on one side and cycles coral only
-    Pros: 
-    - Gets the Coral RP
-    - Fast
-    Cons:
-    - Parks, but does not climb
-    - One Trick Pony
-#### Algae Cycler
-    Description:
-    - Just cycles algae (to processor – maybe into net)
-    - Can de-algaefy the reef
-    Pros:
-    - Scores algae
-    - Coopertition Bonus
-    - Free up the reef for Coral
-    Cons:
-    - One trick pony
-    - No climb
-    - Might run out of algae
-#### The Wall
-    Description:
-    - Deploys wide and high to block human player shots especially
-    - Might be able to score algae into processor
-    Pros: 
-    - Prevents 4-point from HP after 6-point processor score
-    - Could potentially re-score missed Algae
-    Cons:
-    - Limited flexibility
-    - Might be top-heavy
-    - Might run out of algae to defend against
-    - Might not actually be able to get between human player and barge net
-    - Might take a lot of time just to do nothing
-    - Touching the net by accident would be a major foul
-#### RP Bot
-    Description:
-    - Can score 2 Algae into Processor for Coopertition, but barely
-    - Can shore Coral onto the Reef, though not the best
-    - Can deep climb
-    Pros:
-    - Does just enough for Coral RP 
-    - Doesn’t need to dealgaefy reef
-    Cons:
-    - Needs to be able to do L4
-    - Not great by itself – needs help to secure the win
-    - Complexity of deep climbing
-    - Each RP is just ⅓ of a win, not ½
-    - RP is not a benefit in playoffs 
-#### KitBot
-    Description:
-    - The Kit Bot
-    Pros:
-    - Can score on L1
-    - Lots of coral can fit on L1
-    Cons:
-    - No swerve
-    - Can’t score on other levels
-    - Can’t manipulate algae (without modification)
-#### Hopper Bot (not Marie)
-    Description:
-    - Receives coral from KitBot
-    Pros:
-    - Let’s the KitBot do most of the cycling; score on Coral more quickly
-    - Can score L2-L4 when paired with KitBot
-    Cons:
-    - Capability wasted when not paired with non-KitBot
-#### Defense Bot
-    Description: 
-    - Goes to other side of the field to slow down opponent offense
-    - Maybe could dealgaefy the opponent reef and bring algae across field
-    - Strong & robust for defense
-    Pros:
-    - Points are comparative - if they can’t score, they can’t win
-    - Can give alliance more algae to score
-    Cons:
-    - Cannot score itself
-#### Coral Front & Back
-    Description: 
-    - Can intake Coral from opposite site of scoring on reef
-    - Can be fed Coral from Coral Station without needing to travel all the way to Coral Station
-    Pros: 
-    - Cuts down on cycle times by removing distance to travel
-    - Doesn’t rule out also scoring algae
-    Cons: 
-    - Complexity and maintenance
-#### The California Powerhouse Bot
-    Description: 
-    - Does everything
-    Pros:
-    - No limitations
-    Cons: 
-    - You’ve gotta be one of those teams to pull it off
-#### The Annoying Bot
-    Description:
-    - Wide
-    - Gets in front of a Coral Station (or processor) and denies access
-    Pros:
-    - Can shut down a Coral Station completely (or processor)
-    Cons:
-    - There are two Coral Stations
-    - Cannot score points itself
-    - Needs to survive contact with deep cages
-#### The Shooter Bot
-    Description:
-    - Shoots coral onto the reef
-    Pros:
-    - Doesn’t need to move around reef to score on other branches
-    - Points for EI
-    Cons:
-    - Complexity / reliability of shooting from distance
-#### The Climbing Bot
-    Description:
-    - Focused on ensuring the deep cage climb
-    - Might push algae around a bit, but put most development effort into climb
-    Pros:
-    - Always gets the Barge RP
-    Cons:
-    - Does little otherwise to contribute to offense
-#### Do Everything Bot
-    Description: 
-    - Does a little bit of everything but doesn't do it well 
-    Pros:
-    - Versatile
-    - May help with RP
-    Cons: 
-    - Inefficient
+    
+**Pros:**
+   - Gets the Coral RP
+   - Fast
+    
+**Cons:**
+   - Parks, but does not climb
+   - One Trick Pony
+ 
+### Algae Cycler
+
+**Description:**
+  - Just cycles algae (to processor – maybe into net)
+  - Can de-algaefy the reef
+    
+**Pros:**
+  - Scores algae
+  - Coopertition Bonus
+   - Free up the reef for Coral
+    
+**Cons:**
+   - One trick pony
+   - No climb
+   - Might run out of algae
+
+### The Wall
+
+**Description:**
+   - Deploys wide and high to block human player shots especially
+   - Might be able to score algae into processor
+   
+**Pros:**
+   - Prevents 4-point from HP after 6-point processor score
+   - Could potentially re-score missed Algae
+    
+**Cons:**
+   - Limited flexibility
+   - Might be top-heavy
+   - Might run out of algae to defend against
+   - Might not actually be able to get between human player and barge net
+   - Might take a lot of time just to do nothing
+   - Touching the net by accident would be a major foul
+
+### RP Bot
+
+ **Description:**
+   - Can score 2 Algae into Processor for Coopertition, but barely
+   - Can shore Coral onto the Reef, though not the best
+   - Can deep climb
+    
+**Pros:**
+   - Does just enough for Coral RP 
+   - Doesn’t need to dealgaefy reef
+    
+**Cons:**
+   - Needs to be able to do L4
+   - Not great by itself – needs help to secure the win
+   - Complexity of deep climbing
+   - Each RP is just ⅓ of a win, not ½
+   - RP is not a benefit in playoffs 
+
+### KitBot
+
+**Description:**
+   - The Kit Bot
+    
+**Pros:**
+   - Can score on L1
+   - Lots of coral can fit on L1
+   
+**Cons:**
+   - No swerve
+   - Can’t score on other levels
+   - Can’t manipulate algae (without modification)
+
+### Hopper Bot (not Marie)
+    
+**Description:**
+   - Receives coral from KitBot
+    
+**Pros:**
+   - Let’s the KitBot do most of the cycling; score on Coral more quickly
+   - Can score L2-L4 when paired with KitBot
+    
+**Cons:**
+   - Capability wasted when not paired with non-KitBot
+
+### Defense Bot
+    
+**Description:**
+   - Goes to other side of the field to slow down opponent offense
+   - Maybe could dealgaefy the opponent reef and bring algae across field
+   - Strong & robust for defense
+    
+**Pros:**
+   - Points are comparative - if they can’t score, they can’t win
+   - Can give alliance more algae to score
+
+**Cons:**
+   - Cannot score itself
+
+### Coral Front & Back
+    
+**Description:**
+   - Can intake Coral from opposite site of scoring on reef
+   - Can be fed Coral from Coral Station without needing to travel all the way to Coral Station
+    
+**Pros:**
+   - Cuts down on cycle times by removing distance to travel
+   - Doesn’t rule out also scoring algae
+    
+**Cons:**
+   - Complexity and maintenance
+
+### The California Powerhouse Bot (hi citrus)
+    
+**Description:**
+   - Does everything
+    
+**Pros:**
+   - No limitations
+    
+**Cons:**
+   - You’ve gotta be one of those teams to pull it off
+
+### The Annoying Bot
+    
+**Description:**
+   - Wide
+   - Gets in front of a Coral Station (or processor) and denies access
+    
+**Pros:**
+   - Can shut down a Coral Station completely (or processor)
+ 
+**Cons:**
+   - There are two Coral Stations
+   - Cannot score points itself
+   - Needs to survive contact with deep cages
+
+### The Shooter Bot
+    
+**Description:**
+   - Shoots coral onto the reef
+  
+**Pros:**
+   - Doesn’t need to move around reef to score on other branches
+   - Points for EI
+    
+**Cons:**
+   - Complexity / reliability of shooting from distance
+
+### The Climbing Bot
+    
+**Description:**
+   - Focused on ensuring the deep cage climb
+   - Might push algae around a bit, but put most development effort into climb
+    
+**Pros:**
+   - Always gets the Barge RP
+    
+**Cons:**
+   - Does little otherwise to contribute to offense
+
+### Do Everything Bot
+    
+**Description:**
+   - Does a little bit of everything but doesn't do it well 
+    
+**Pros:**
+   - Versatile
+   - May help with RP
+    
+**Cons:**
+   - Inefficient
 
 <hr>
 
@@ -229,6 +285,7 @@ This post outlines our early season thoughts on what robots will do, potential r
 </div>
 
 ### Our Robot Will
+Purpose: Things our robot will do, not necessarily week 1, but eventually will do
 - Be only as complex as absolutely necessary
 - Have a low center of gravity / be stable
 - Be robust – especially from potential Cage damage
@@ -247,6 +304,7 @@ This post outlines our early season thoughts on what robots will do, potential r
 - Deep Cage climb
 
 ### Stretch goals
+Purpose: Goals that we aren't as focused on, but if it falls in our lap or we've completed the will list, we will go for
 - Ground intake of Algae
 - Able to score at least two Algae in the Processor
 - Maintain possession of Algae when removing from the Reef
@@ -258,5 +316,4 @@ This post outlines our early season thoughts on what robots will do, potential r
 - Climb on the Shallow Cage
 - Score Algae into the Barge net
 - Intake Coral from the ground
-
 
