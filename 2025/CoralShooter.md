@@ -63,7 +63,8 @@ This shooter archetype could work, however, due to the safety concerns, and inco
 <h2><span style="color:#bf5700">Written By</span></h2>
 </div>
 
-<div>
 <div align="center">
-<body><span>@nathan_9496 - Design / Mechanical</span></body>
+
+@nathan_9496 - Design / Mechanical
+
 </div>
