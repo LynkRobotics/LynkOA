@@ -30,7 +30,7 @@ https://www.youtube.com/shorts/eQuJAvcU9mI
 
 - Inconsistent, but possible
 - Change in physical angle does not effect backspin 
-- Different motor speeds lead to more or less backspin
+- Different motor speeds lead to more or less backspin, but way more inconsistency 
 
 
 
