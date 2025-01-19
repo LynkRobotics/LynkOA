@@ -41,12 +41,6 @@ https://www.youtube.com/shorts/eQuJAvcU9mI
 
 Due to how hard the game piece is, we would not recommend doing a coral shooter, one bad shot could lead to actual harm (Refs on the side of the field, human players, etc.)
 
-<div>
-<div align="left">
-<h2><span style="color:#bf5700">The 100% Mortar Shot</span></h2>
-</div>
-
-**INSERT VIDEO WHEN SHOT**
 
 <div>
 <div align="left">
