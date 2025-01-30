@@ -34,4 +34,13 @@ I would still reccomend to new teams to use things like [YAGSL](https://www.chie
 
 [![Static Badge](https://img.shields.io/badge/Kraken_Swerve_Base-github?style=for-the-badge&logo=github&logoColor=000000&labelColor=bf5700&color=000000)](https://github.com/LynkRobotics/KrakenSwerveBase) 
 
+<div>
+<div align="center">
+<h2><span style="color:#bf5700">Written By</span></h2>
+</div>
+
+<div align="center">
+@Jimmyy - Programming / Electrical / Strat
+</div>
+
 
