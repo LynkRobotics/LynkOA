@@ -2,13 +2,12 @@
 <h1><span style="color:#bf5700">Kraken Swerve Base Release</span></h1>
 </div>
 
-Hello! This is the public release of the swerve base I have maintained for ~3 years now.
-
+Hello! This is the public release of the swerve base I have maintained for the last ~3 years.
 <div align="left">
 <h2><span style="color:#bf5700">Features</span></h2>
 </div>
 
-- Made for all CTRE hardware
+- Made for all CTRE hardware (but can be easily modified for other hardware)
 - CANivore Support
 - FOC Support
 - Support for all SDS and some WCP modules
@@ -28,7 +27,7 @@ Hello! This is the public release of the swerve base I have maintained for ~3 ye
 <h2><span style="color:#bf5700">Final Notes </span></h2>
 </div>
 
-I would still reccomend to new teams to use things like [YAGSL](https://www.chiefdelphi.com/t/yagsl-2025-a-leap-forward-in-swerve-drive-control-and-simulation/476005?u=jimmyy) or [CTRE's swerve generator](https://v6.docs.ctr-electronics.com/en/2024/docs/tuner/tuner-swerve/index.html) as they have ongoing community support, but this is here as an option, and what we use currently.
+I would still recommend to new teams to use things like [YAGSL](https://www.chiefdelphi.com/t/yagsl-2025-a-leap-forward-in-swerve-drive-control-and-simulation/476005?u=jimmyy) or [CTRE's swerve generator](https://v6.docs.ctr-electronics.com/en/2024/docs/tuner/tuner-swerve/index.html) as they have ongoing community support, but this is here as an option, and what we use currently.
 
 <div align="left">
 <h2><span style="color:#bf5700">Resources</span></h2>
