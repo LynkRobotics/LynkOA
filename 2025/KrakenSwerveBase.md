@@ -13,7 +13,7 @@ Hello! This is the public release of the swerve base I have maintained for ~3 ye
 - FOC Support
 - Support for all SDS and some WCP modules
     - WCP Swerve X support only (with Swerve XS and other support coming soon)
-    - SDS: L1, L1.5, L2, L2.5, L3, L3.5, L4
+    - SDS: MK4, MK4i, MK3
 - Simple and barebones
 
 <div align="left">
@@ -21,6 +21,8 @@ Hello! This is the public release of the swerve base I have maintained for ~3 ye
 </div>
 
 - 250hz Odom Thread (CANivore Only)
+- SDS: MK4c, MK4n Support
+- WCP: X2, X2i, X2t, X2st, Xs
 
 <div align="left">
 <h2><span style="color:#bf5700">Final Notes </span></h2>
