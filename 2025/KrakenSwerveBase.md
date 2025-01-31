@@ -12,7 +12,7 @@ Hello! This is the public release of the swerve base I have maintained for ~3 ye
 - CANivore Support
 - FOC Support
 - Support for all SDS and some WCP modules
-    - WCP Swerve X support only (with Swerve XS and other support coming soon)
+    - WCP Swerve X and X Flipped
     - SDS: MK4, MK4i, MK3
 - Simple and barebones
 
